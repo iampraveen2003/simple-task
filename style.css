@@ -1,0 +1,211 @@
+header{
+    background-image: url(backgroud.jpg);
+    height: 100vh;
+    background-size: cover;
+    color: white;
+
+  
+    
+}
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.navbar{
+    display: flex;
+    margin-left: 20px;
+}
+.about{
+    color: aqua;
+}
+
+
+ul{
+   list-style: none;
+   display: flex;
+   gap: 15px;
+   margin-left: 500px;
+   padding-top: 10px;
+
+   
+}
+.promote{
+    text-align: center;
+    margin-top: 20%;    
+}
+.promote h2{
+    font-size: 40px;
+}
+.end button{
+    background-color: aqua;
+    margin-left: 47%;
+    margin-top: 20px;
+    padding: 10px;
+    color: white;
+    border: none;
+
+}
+.awesome{
+    text-align: center;
+}
+.box-wrapper{
+display: flex;
+justify-content: center;
+gap: 20px;
+margin-top: 80px;
+
+}
+.box{
+    text-align: center;
+}
+.box p{
+    text-align: center;
+}
+
+#box1{
+width: 400PX;
+height: 40vh;
+border: solid black 1px;
+
+
+}
+#box2{
+    width: 400PX;
+    height: 40vh;
+    border: solid black 1px;
+}
+#box3{
+    width: 400PX;
+    height: 40vh;
+    border: solid black 1px;
+}
+.box-wrapper-2{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 30px;
+}
+#box4{
+    width: 400PX;
+    height: 40vh;
+    border: solid black 1px;
+}
+#box5{
+    width: 400PX;
+    height: 40vh;
+    border: solid black 1px;
+}
+#box6{
+    width: 400PX;
+    height: 40vh;
+    border: solid black 1px;
+}
+.bigbox{
+    display: flex;
+    height: 90vh;
+    margin-top: 40px;
+}
+.maincontent{
+    background-color: aqua;
+    width: 49%;
+    display: flex;
+
+}
+.logo{
+    margin-top: 27px;
+    margin-left: 10px;
+}
+.logo1{
+    margin-top: 20px;
+}
+.logo2{
+ margin-top: 30px;
+}
+.logo3{
+ margin-top: 50px;
+}
+.logo4{
+ margin-top: 50px;
+
+}
+.rightcontent{
+    margin-top: 40px;
+    color: white;
+}
+.finalpic{
+    display: flex;
+}
+.teapic{
+    margin-right: 10px;
+}
+.creative{
+    text-align: center;
+    margin-top: 35px;
+}
+hr{
+    width: 50px;
+    height: 0.5vh;
+    background-color:aqua;
+}
+
+.gallery img{
+    width: 35px;
+}
+.photoswrapper{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.gallery{
+ width: 15%;
+height: 50vh;
+margin-top: 30px;
+align-content: center;
+padding-left: 50px;
+}
+#photos1{
+    background-image: url(web\ model\ 11-02.jpg);
+    background-size: cover;
+    
+}
+#photos2{
+background-image: url(web\ model\ 11-03.jpg);
+background-size: cover;
+
+
+}
+#photos3{
+    background-image: url(web\ model\ 11-04.jpg);
+    background-size: cover;
+}
+#photos4{
+    background-image: url(web\ model\ 11-05.jpg);
+    background-size: cover;
+}
+.names{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+.names h5{
+    color: blueviolet;
+    text-align: center;
+}
+.names h3{
+    text-align: center;
+}
+.names p{
+    color:red;
+}
+.lastcontent{
+    display: flex;
+    background-color: aqua;
+    justify-content: space-around;
+    height: 40vh;
+    align-items: center;
+}
+.lastcontent h1,p {
+    margin-left: 20px;
+    
+    
+}
