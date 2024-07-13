@@ -152,7 +152,7 @@ hr{
 .gallery img{
     width: 35px;
 }
-.photoswrapper{
+.insideicon{
     display: flex;
     justify-content: space-evenly;
     
@@ -196,7 +196,7 @@ background-size: cover;
     text-align: center;
 }
 .names p{
-    color:aqua;
+    color:rgb(63, 104, 104);
 }
 .lastcontent{
     display: flex;
@@ -206,7 +206,12 @@ background-size: cover;
     align-items: center;
 }
 .lastcontent h1,p {
-    margin-left: 20px;
+    margin-left: 20px;  
     
-    
+}
+.awesome hr{
+    margin-top: 30px;
+}
+.lastcontent {
+    color: white;
 }
